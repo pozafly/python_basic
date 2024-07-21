@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "formulahendry.code-runner",
+    "donjayamanne.python-extension-pack",
+    "ms-python.python",
+    "ms-python.pylint",
+    "ms-python.black-formatter"
+  ]
+}

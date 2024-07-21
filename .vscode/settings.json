@@ -1,5 +1,9 @@
 {
   "code-runner.executorMap": {
     "python": "python3 -u"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
   }
 }
