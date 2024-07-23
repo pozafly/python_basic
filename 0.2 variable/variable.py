@@ -11,7 +11,7 @@ print(x, y, z)  # 700 700 700
 
 # 재할당
 var = 75
-var = "Change Value"
+var = 'Change Value'
 print(var)  # Change Value
 print(type(var))  # <class 'str'>
 

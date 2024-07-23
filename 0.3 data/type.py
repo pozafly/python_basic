@@ -11,13 +11,13 @@ set : 집합
 dict : 사전
 """
 
-str1 = "Python"
+str1 = 'Python'
 bool = True
-str2 = "Anaconda"
+str2 = 'Anaconda'
 float_ = 10.0
 int_ = 7
 list = [str1, str2]  # ['Python', 'Anaconda']
-dict = {"name": "Machine Learning", "version": 2.0}
+dict = {'name': 'Machine Learning', 'version': 2.0}
 typle = (7, 8, 9)  # 또는 7, 8, 9 괄호 없이도 가능
 set = {7, 8, 9}
 

@@ -9,7 +9,6 @@ pow(x, y) : 제곱
 
 """
 
-
 # 형변환 실습
 a = 3.0  # float
 b = 6  # int
@@ -21,7 +20,7 @@ print(a + b)  # 9.0
 print(int(True))  # 1
 print(float(False))  # 0.0
 print(complex(3))  # (3+0j)
-print(complex("3"))  # (3+0j) 문자형 -> 숫자형
+print(complex('3'))  # (3+0j) 문자형 -> 숫자형
 
 # 수치 연산 함수
 print(abs(-7))  # 7
